@@ -1,0 +1,17 @@
+{
+  "source_raw_data_issue": "Original raw_data.xlsx was 2 bytes and not readable.",
+  "transactions": 391150,
+  "customers": 4334,
+  "duplicate_customer_ids": 0,
+  "rfm_nulls": 0,
+  "nonpositive_customer_monetary": 0,
+  "segments": [
+    "At-Risk Customers",
+    "Champions",
+    "Lost Customers",
+    "Loyal Customers",
+    "Potential Loyalists"
+  ],
+  "kmeans_k": 5,
+  "silhouette_score": 0.3172
+}

@@ -1,0 +1,17 @@
+{
+  "dataset_rows": 391150,
+  "customers": 4334,
+  "invoices": 18402,
+  "products": 3659,
+  "countries": 37,
+  "revenue": 8737227.64,
+  "date_start": "2010-12-01 08:26:00",
+  "date_end": "2011-12-09 12:50:00",
+  "snapshot_date": "2011-12-10",
+  "kmeans_k": 5,
+  "silhouette_score": 0.3172,
+  "customers_for_80pct_revenue": 1133,
+  "customer_share_for_80pct_revenue": 0.2614,
+  "products_for_80pct_revenue": 784,
+  "product_share_for_80pct_revenue": 0.2143
+}
